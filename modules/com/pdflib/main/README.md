@@ -36,7 +36,7 @@ In your application'S WEB-INF folder please add the following to your jboss-depl
 	<jboss-deployment-structure>
 		<deployment>
 			<dependencies>
-				<module name="com.jmupdf" />
+				<module name="com.pdflib" />
 			</dependencies>
 		</deployment>
 	</jboss-deployment-structure>
