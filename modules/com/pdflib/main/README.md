@@ -31,7 +31,7 @@ After extraction open your JBoss configuration file (for example domain/standalo
 
 ### Application modifications
 
-In your application'S WEB-INF folder please add the following to your jboss-deployment-descriptor.xml file
+In your application'S WEB-INF folder please add the following to your jboss-deployment-structure.xml file
 
 	<jboss-deployment-structure>
 		<deployment>
